@@ -5,9 +5,5 @@ coverage
 __snapshots__
 build
 
-templates/**/node_modules/**
-templates/**/.eslintrc.yml
-
-
 # Files copied as part of the build
 packages/types/src/generated/**/*.ts

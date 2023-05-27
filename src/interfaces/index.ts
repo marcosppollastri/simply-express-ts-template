@@ -1,1 +1,1 @@
-export { AppData, AppResponse } from '@src/interfaces/App'
+export { AppData, AppResponse } from '@src/interfaces/App';

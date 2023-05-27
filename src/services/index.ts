@@ -1,1 +1,1 @@
-export { AppService } from '@src/services/AppService'
+export { AppService } from '@src/services/AppService';
