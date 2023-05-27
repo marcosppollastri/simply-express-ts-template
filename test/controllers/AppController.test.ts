@@ -1,6 +1,6 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { AppController } from '@src/controllers';
 import * as AppServices from '@src/services';
-import { HttpError } from '@supercharge/http-errors/dist';
 
 jest.mock('@src/services');
 

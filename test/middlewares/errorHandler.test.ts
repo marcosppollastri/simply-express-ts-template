@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { genericErrorHandler } from '@src/middlewares/errorHandler';
 import { HttpError } from '@supercharge/http-errors/dist/http-error';
 
